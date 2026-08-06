@@ -1,3 +1,4 @@
+
 # Experiment 3: Fragments and Debugging in Android
 
 ##  Aim
@@ -217,26 +218,13 @@ class DetailFragment : Fragment() {
 
 ---
 
-# 📸 Output
+#  Output
 
 
-
-```markdown
-<img width="959" height="501" alt="Screenshot 2026-08-06 151054" src="https://github.com/user-attachments/assets/24ab5997-9fec-4cc0-a126-f88700b5111f" />
-
-```
-
-```markdown
-<img width="958" height="498" alt="Screenshot 2026-08-06 151112" src="https://github.com/user-attachments/assets/1b276e5f-821b-4750-a965-46683ddae425" />
-
-```
-
-
-```markdown
-<img width="959" height="506" alt="Screenshot 2026-08-06 151129" src="https://github.com/user-attachments/assets/6d33ae95-58a5-4761-9611-a4aa846dd267" />
-
-```
-
+---
+<img width="959" height="501" alt="Screenshot 2026-08-06 151054" src="https://github.com/user-attachments/assets/d0aa4ba5-9271-4c51-b80d-62c9a3d66ede" />
+<img width="958" height="498" alt="Screenshot 2026-08-06 151112" src="https://github.com/user-attachments/assets/8890956e-0d2e-4fb3-9b64-245393a43b41" />
+<img width="959" height="506" alt="Screenshot 2026-08-06 151129" src="https://github.com/user-attachments/assets/44c0c83a-11c1-405f-bbfb-99c827bb67f8" />
 ---
 
 ##  Result
