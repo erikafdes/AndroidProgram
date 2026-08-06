@@ -196,8 +196,7 @@ class DetailFragment : Fragment() {
 
 ## fragment_list.xml
 ---
-
-`<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <ListView
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -209,8 +208,7 @@ class DetailFragment : Fragment() {
 
 ## fragment_detail.xml
 ---
-
-```<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <TextView
     xmlns:android="http://schemas.android.com/apk/res/android"
