@@ -45,6 +45,7 @@ Used to inspect variable values, fragment lifecycle, and execution flow.
 #  Code
 
 ## MainActivity.kt
+---
 package com.example.fragments
 
 import androidx.appcompat.app.AppCompatActivity
@@ -64,9 +65,13 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-    }
-}
+    }}
+    
+    ---
+
+
 ## ListFragment.kt
+---
 package com.example.fragments
 
 import android.os.Bundle
@@ -137,10 +142,12 @@ class ListFragment : Fragment() {
         return view
 
     }
+    }
+---
 
-}
+
 ## DetailFragment.kt
-
+---
 package com.example.fragments
 
 import android.os.Bundle
@@ -178,7 +185,7 @@ class DetailFragment : Fragment() {
 ---
 
 ## activity_main.xml
-
+---
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/container"
@@ -188,6 +195,7 @@ class DetailFragment : Fragment() {
 ---
 
 ## fragment_list.xml
+---
 
 `<?xml version="1.0" encoding="utf-8"?>
 
@@ -200,6 +208,7 @@ class DetailFragment : Fragment() {
 ---
 
 ## fragment_detail.xml
+---
 
 ```<?xml version="1.0" encoding="utf-8"?>
 
@@ -216,9 +225,10 @@ class DetailFragment : Fragment() {
 
 
 ##  Output
+---
 <img width="959" height="501" alt="Screenshot 2026-08-06 151054" src="https://github.com/user-attachments/assets/16d7cb9c-a6bf-4726-b0fc-e8d18218b30b" />
 
 <img width="958" height="498" alt="Screenshot 2026-08-06 151112" src="https://github.com/user-attachments/assets/2237a9e8-5fcd-4c76-a999-9c53259e7313" />
 
 <img width="959" height="506" alt="Screenshot 2026-08-06 151129" src="https://github.com/user-attachments/assets/4b11b91b-763e-4505-8dbe-cf33cf169b9b" />
-
+---
