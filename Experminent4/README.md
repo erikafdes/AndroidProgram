@@ -404,7 +404,7 @@ class DashboardActivity : AppCompatActivity() {
 
 #  Features
 
-- Beautiful Login UI
+- Login UI
 - Dashboard Screen
 - Explicit Intent Navigation
 - User Authentication
