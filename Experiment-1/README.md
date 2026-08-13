@@ -106,19 +106,18 @@ HelloWorld-App/
 
 #  Output
 
+<p align="center">
+  <img width="300" alt="Output 1" src="https://github.com/user-attachments/assets/2e1b2a67-fe13-49ea-ab5b-300ebcb2f591" />
+</p>
 
-```md
+<p align="center">
+  <img width="300" alt="Output 2" src="https://github.com/user-attachments/assets/9faa7cdf-17be-472d-a1f5-4581fa5cf53a" />
+</p>
 
-<img width="959" height="503" alt="Screenshot 2026-08-13 141540" src="https://github.com/user-attachments/assets/2e1b2a67-fe13-49ea-ab5b-300ebcb2f591" />
+<p align="center">
+  <img width="300" alt="Output 3" src="https://github.com/user-attachments/assets/e0bc3674-9b52-49d3-b001-1a602546c1dd" />
+</p>
 
-<img width="959" height="503" alt="Screenshot 2026-08-13 142304" src="https://github.com/user-attachments/assets/9faa7cdf-17be-472d-a1f5-4581fa5cf53a" />
-
-<img width="959" height="505" alt="Screenshot 2026-08-13 142447" src="https://github.com/user-attachments/assets/e0bc3674-9b52-49d3-b001-1a602546c1dd" />
-
-
-```
-
----
 
 # Result
 
