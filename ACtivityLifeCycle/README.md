@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/fe550364-3a8e-40c6-934a-962990baf98a
-
 ## Experiment 2: Implement Android Activity Lifecycle using lifecycle methods.														
 
 ## Aim
@@ -96,3 +94,6 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
+## OUTPUT
+
+https://github.com/user-attachments/assets/fe550364-3a8e-40c6-934a-962990baf98a
