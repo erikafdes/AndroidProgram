@@ -217,7 +217,8 @@ TechConnect2026/
 ```
 ---
 
-##Output
+## OUTPUT
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-10 at 2 34 38 PM (1)" src="https://github.com/user-attachments/assets/46fbfb34-4059-46e6-afe1-0f1d876edccb" />
 
 <img width="720" height="1600" alt="WhatsApp Image 2026-09-10 at 2 34 39 PM" src="https://github.com/user-attachments/assets/0b644fb3-a8df-40a4-934b-feba8dfac205" />
 
@@ -225,7 +226,7 @@ TechConnect2026/
 <img width="720" height="1600" alt="WhatsApp Image 2026-09-10 at 2 34 39 PM (1)" src="https://github.com/user-attachments/assets/f1ea18de-9e83-46bd-ab14-1a94b300a9cc" />
 
 
-<img width="720" height="1600" alt="WhatsApp Image 2026-09-10 at 2 34 38 PM (1)" src="https://github.com/user-attachments/assets/46fbfb34-4059-46e6-afe1-0f1d876edccb" />
+
 
 ---
 
