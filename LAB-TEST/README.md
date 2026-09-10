@@ -104,4 +104,116 @@ An Android notification is also generated indicating that the registration was s
 | **ScrollView** | Allows the registration form to be scrolled |
 
 ---
+## Concepts Used
 
+The following Android development concepts are used in this application:
+
+1. **Android Activities**
+   - The application uses three Activities:
+     - `MainActivity`
+     - `RegistrationActivity`
+     - `ConfirmationActivity`
+
+2. **XML Layout Design**
+   - XML is used to design the user interface of all Activities.
+
+3. **Android Views**
+   - `TextView`
+   - `ImageView`
+   - `EditText`
+   - `Button`
+   - `RadioButton`
+   - `RadioGroup`
+   - `CheckBox`
+   - `ToggleButton`
+   - `ScrollView`
+
+4. **Explicit Intent**
+   - Used to navigate from one Activity to another within the application.
+
+5. **Intent Data Passing**
+   - `putExtra()` is used to pass the student's name and event category.
+   - `getStringExtra()` is used to retrieve the passed data.
+
+6. **Event Handling**
+   - `setOnClickListener()` is used to handle button click events.
+
+7. **User Input Validation**
+   - The application checks whether required fields are entered and whether required options are selected.
+
+8. **RadioGroup and RadioButton**
+   - Used to allow the user to select Gender and Event Category.
+
+9. **CheckBox**
+   - Used to confirm that the student agrees to the event rules.
+
+10. **ToggleButton**
+    - Used to select whether the student requires a participation certificate.
+
+11. **Toast Messages**
+    - Used to display validation and error messages to the user.
+
+12. **Android Notifications**
+    - A notification is generated after successful registration.
+
+13. **Notification Channel**
+    - A notification channel is created for Android 8.0 and above.
+
+14. **Runtime Permission**
+    - `POST_NOTIFICATIONS` permission is requested for Android 13 and above.
+
+15. **Activity Lifecycle**
+    - Lifecycle methods such as `onCreate()`, `onStart()`, `onResume()`, `onPause()`, `onStop()`,
+   
+
+## Project Structure
+
+```text
+TechConnect2026/
+│
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── example/
+│   │   │   │           └── techconnect2026/
+│   │   │   │               ├── MainActivity.kt
+│   │   │   │               ├── RegistrationActivity.kt
+│   │   │   │               └── ConfirmationActivity.kt
+│   │   │   │
+│   │   │   ├── res/
+│   │   │   │   ├── drawable/
+│   │   │   │   │   └── college_logo.png
+│   │   │   │   │
+│   │   │   │   ├── layout/
+│   │   │   │   │   ├── activity_main.xml
+│   │   │   │   │   ├── activity_registration.xml
+│   │   │   │   │   └── activity_confirmation.xml
+│   │   │   │   │
+│   │   │   │   └── values/
+│   │   │   │
+│   │   │   └── AndroidManifest.xml
+│   │   │
+│   │   └── test/
+│   │
+│   └── build.gradle.kts
+│
+├── screenshots/
+│   ├── home-screen.png
+│   ├── registration-form.png
+│   ├── confirmation.png
+│   ├── notification.png
+│   └── lifecycle-logcat.png
+│
+├── build.gradle.kts
+├── settings.gradle.kts
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+├── .gitignore
+└── README.md
+
+
+
+## Project Structure
