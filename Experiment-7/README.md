@@ -89,42 +89,72 @@ The application contains the following famous places:
 
 ## Project Structure
 
+```text
 AdaptiveListViewApp/
 │
 ├── app/
-│   └── src/
-│       └── main/
-│           │
-│           ├── java/com/example/adaptivelistviewapp/
-│           │   ├── MainActivity.kt
-│           │   ├── Place.kt
-│           │   ├── PlaceAdapter.kt
-│           │   └── PlaceDetailActivity.kt
-│           │
-│           ├── res/
-│           │   ├── drawable/
-│           │   │   ├── eiffel_tower.jpg
-│           │   │   ├── statue_of_liberty.jpg
-│           │   │   ├── tokyo_tower.jpg
-│           │   │   ├── colosseum.jpg
-│           │   │   ├── taj_mahal.jpg
-│           │   │   ├── big_ben.jpg
-│           │   │   ├── great_wall.jpg
-│           │   │   └── christ_redeemer.jpg
-│           │   │
-│           │   ├── layout/
-│           │   │   ├── activity_main.xml
-│           │   │   ├── item_place.xml
-│           │   │   └── activity_place_detail.xml
-│           │   │
-│           │   └── ...
-│           │
-│           └── AndroidManifest.xml
+│   │
+│   ├── src/
+│   │   └── main/
+│   │       │
+│   │       ├── java/
+│   │       │   └── com/
+│   │       │       └── example/
+│   │       │           └── adaptivelistviewapp/
+│   │       │               ├── MainActivity.kt
+│   │       │               ├── Place.kt
+│   │       │               ├── PlaceAdapter.kt
+│   │       │               └── PlaceDetailActivity.kt
+│   │       │
+│   │       ├── res/
+│   │       │   │
+│   │       │   ├── drawable/
+│   │       │   │   ├── eiffel_tower.jpg
+│   │       │   │   ├── statue_of_liberty.jpg
+│   │       │   │   ├── tokyo_tower.jpg
+│   │       │   │   ├── colosseum.jpg
+│   │       │   │   ├── taj_mahal.jpg
+│   │       │   │   ├── big_ben.jpg
+│   │       │   │   ├── great_wall.jpg
+│   │       │   │   └── christ_redeemer.jpg
+│   │       │   │
+│   │       │   ├── layout/
+│   │       │   │   ├── activity_main.xml
+│   │       │   │   ├── item_place.xml
+│   │       │   │   └── activity_place_detail.xml
+│   │       │   │
+│   │       │   ├── mipmap/
+│   │       │   │   └── app launcher icons
+│   │       │   │
+│   │       │   ├── values/
+│   │       │   │   ├── colors.xml
+│   │       │   │   ├── strings.xml
+│   │       │   │   └── themes.xml
+│   │       │   │
+│   │       │   └── xml/
+│   │       │       ├── backup_rules.xml
+│   │       │       └── data_extraction_rules.xml
+│   │       │
+│   │       └── AndroidManifest.xml
+│   │
+│   ├── build.gradle.kts
+│   └── proguard-rules.pro
 │
+├── gradle/
+│   └── wrapper/
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+│
+├── .gitignore
+├── build.gradle.kts
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle.kts
 └── README.md
-
-
+```
 ---
+
 ## Code
 
 ### 1. MainActivity.kt
