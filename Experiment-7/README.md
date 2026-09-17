@@ -249,7 +249,7 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 ### 2.Place.kt
-
+```
 package com.example.adaptivelistviewapp
 
 data class Place(
@@ -258,9 +258,9 @@ data class Place(
     val description: String,
     val image: Int
 )
-
+```
 ### 3. PlaceAdapter.kt
-
+```text
 package com.example.adaptivelistviewapp
 
 import android.content.Context
@@ -311,8 +311,9 @@ class PlaceAdapter(
         return view
     }
 }
+```
 ### 4. PlaceDetailActivity.kt
-
+```text
 package com.example.adaptivelistviewapp
 
 import android.os.Bundle
@@ -348,9 +349,9 @@ class PlaceDetailActivity : AppCompatActivity() {
         }
     }
 }
-
+```
 ### 5. activity_main.xml
-
+```text
 <?xml version="1.0" encoding="utf-8"?>
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -374,9 +375,10 @@ class PlaceDetailActivity : AppCompatActivity() {
         android:dividerHeight="1dp" />
 
 </LinearLayout>
+```
 
 ### 6. item_place.xml
-
+```text
 <?xml version="1.0" encoding="utf-8"?>
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -419,9 +421,10 @@ class PlaceDetailActivity : AppCompatActivity() {
     </LinearLayout>
 
 </LinearLayout>
+```
 
 ### 7.activity_place_detail.xml
-
+```text
 <?xml version="1.0" encoding="utf-8"?>
 
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
@@ -470,7 +473,7 @@ class PlaceDetailActivity : AppCompatActivity() {
     </LinearLayout>
 
 </ScrollView>
-
+```
 ---
 
 
