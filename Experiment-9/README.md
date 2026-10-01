@@ -147,6 +147,8 @@ The XML layout provides:
 
 
 ## Screenshots
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-01 at 1 13 22 PM (2)" src="https://github.com/user-attachments/assets/538cc033-cf44-4207-8cc7-6cd22e051be9" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-10-01 at 1 13 22 PM" src="https://github.com/user-attachments/assets/80afadce-309f-4499-8b8c-997aea8622bc" />
 
 
 
