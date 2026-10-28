@@ -243,6 +243,9 @@ Location permissions are only needed if the application accesses the device's cu
 
 ## Screenshots
 
+<img width="227" height="422" alt="image" src="https://github.com/user-attachments/assets/64d831b2-57b0-4fd9-965e-c86f0e84a05e" />
+
+
 
 
 ## Result
