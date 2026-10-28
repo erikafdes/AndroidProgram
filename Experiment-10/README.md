@@ -362,7 +362,9 @@ class MainActivity : AppCompatActivity() {
 ```
 
 ## Screenshots
+<img width="394" height="728" alt="image" src="https://github.com/user-attachments/assets/f75bbb0e-7543-4a9b-b7d7-b92af444763e" />
 
+<img width="410" height="740" alt="image" src="https://github.com/user-attachments/assets/bda8956f-6206-40c4-83d5-d797b1de5a3d" />
 
 
 ## Result
