@@ -363,19 +363,7 @@ class MainActivity : AppCompatActivity() {
 
 ## Screenshots
 
-Add your application screenshots below to demonstrate the user interface and execution.
 
-### Application Interface
-
-![Contacts application interface](https://github.com/user-attachments/assets/674264498-f012-1042-a124-414db1ac2746)
-
-### Contact Creation Screen
-
-![Contact creation screen](https://github.com/user-attachments/assets/674264486-354c-4161-3a25-44e7964c8b)
-
-### Retrieved Contacts
-
-![Fetched contacts display](https://github.com/user-attachments/assets/674264472-9315-2c74-c96f-4493-af135d6f07c9)
 
 ## Result
 
